@@ -1,1 +1,8 @@
-# Assignment
+1. First of all we have to install a software named "LOCAL WP" that Provide us environment to run wordpress locally in our system . Link to download that software is [https://localwp.com/] after reaching website click on download button & choose your system Mac /Window / Linux etc. Then after downloading it click on next next and then choose path where you want to install it .
+2. After that when app opens click on + sign on bottom & then create  a wordpress site by putting any name & any email id and password after that process the site will starting itself you can go to its wp admin section & login there with your credentials Then wordpress panel will be opened there
+3.  Then from this github repo download both elementor file and then in wordpress panel you will see a option of plugin click on it then click add new plugin and then upload plugin then upload these both elementor file which you downloaded from this repo and click on install now &  then click on activate now and do setup of elementor by just clicking skip  all stages
+4.  After activation & setup of elementor now you we will see a Tools button in your wordpress pannel click on it & then clcik on import button on it and then a list of option will come like blogger , rss etc in which there is a wordpress option click on install mow of wordpress.
+5.  After that a new window will open & ask you to upload file then upload that assignemt.wordpress file from  there after the sucessfull uploading of these file refresh that pannel .
+6.  Then go pages section there is a page named "Homepage" that will gave my task
+
+   Note: Dont uploaded many photos as it will cause inconvience in sharing then you have to do  2 more steps see and also create alignment issue . In case of any error contact me
